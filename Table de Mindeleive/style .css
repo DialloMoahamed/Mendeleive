@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.moncode{
+    width: 30em;
+    height: 17em;
+    border-radius: 5px;background-color: aqua;
+    display: flex;
+    justify-content: center;
+}   
+#content a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: aquamarine;
+    width: 12em;
+    height: 30px;
+    margin: auto;
+    text-decoration:none;
+
+}
+.mantore {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
